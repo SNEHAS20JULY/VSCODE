@@ -1,0 +1,6 @@
+Test Case ID: TC002
+Description: Verify logout functionality
+Steps:
+1. Click logout button
+2. Confirm logout
+Expected Result: User should be logged out successfully.
