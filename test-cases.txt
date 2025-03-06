@@ -1,0 +1,7 @@
+Test Case ID: TC001
+Description: Verify user login functionality
+Steps:
+1. Open login page
+2. Enter username and password
+3. Click Login button
+Expected Result: User should successfully log in.
